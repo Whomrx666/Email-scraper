@@ -6,8 +6,8 @@ Use this tool on Linux or other Linux-based devices, for cellphones use the Shel
 
 ## Instalations
 ```
-$apt-get update
-$apt-get install pip
+$ apt-get update
+$ apt-get install pip
 $ pkg install git python
 $ git clone https://github.com/Whomrx666/Email-scraper
 $ cd Email-scraper
