@@ -1,5 +1,5 @@
 # Email-scraper
-![Email-scraper preview](Email-scraper.png)
+![Email-scraper preview](Email-Scraper.png)
 
 ## Attention
 Use this tool on Linux or other Linux-based devices, for cellphones use the Shell cloud terminal or nethunter.
