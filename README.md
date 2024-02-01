@@ -12,7 +12,7 @@ $ pkg install git python
 $ git clone https://github.com/Whomrx666/Email-scraper
 $ cd Email-scraper
 $ pip install -r requirements.txt
-$ python3 Email-scraper.py
+$ python3 email-scraper.py
 ```
 
 ## Instructions
